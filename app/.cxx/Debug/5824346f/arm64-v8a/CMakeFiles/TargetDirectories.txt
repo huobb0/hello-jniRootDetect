@@ -1,0 +1,3 @@
+/Users/Zsombor/Documents/Projects/androidhack/ndk/ndk-samples/hello-jniCallback/app/.cxx/Debug/5824346f/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/Zsombor/Documents/Projects/androidhack/ndk/ndk-samples/hello-jniCallback/app/.cxx/Debug/5824346f/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/Zsombor/Documents/Projects/androidhack/ndk/ndk-samples/hello-jniCallback/app/.cxx/Debug/5824346f/arm64-v8a/CMakeFiles/hello-jnicallback.dir

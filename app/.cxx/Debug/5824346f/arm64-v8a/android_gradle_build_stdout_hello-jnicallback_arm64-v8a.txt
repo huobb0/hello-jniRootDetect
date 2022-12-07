@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/Zsombor/Documents/Projects/androidhack/ndk/ndk-samples/hello-jniCallback/app/.cxx/Debug/5824346f/arm64-v8a'
+ninja: no work to do.

@@ -1,0 +1,11 @@
+# ninja log v5
+0	177	1670433952	CMakeFiles/hello-jnicallback.dir/hello-jnicallback.c.o	c67d89b153b635c5
+178	299	1670433952	/Users/Zsombor/Documents/melok/defdev masterclass/android/jni/hello-jniRootDetect/app/build/intermediates/cxx/Debug/33411v5v/obj/arm64-v8a/libhello-jnicallback.so	c5f9de9ed6e17a09
+1	268	1670434464	CMakeFiles/hello-jnicallback.dir/hello-jnicallback.c.o	c67d89b153b635c5
+268	411	1670434464	/Users/Zsombor/Documents/melok/defdev masterclass/android/jni/hello-jniRootDetect/app/build/intermediates/cxx/Debug/33411v5v/obj/arm64-v8a/libhello-jnicallback.so	c5f9de9ed6e17a09
+0	286	1670434659	CMakeFiles/hello-jnicallback.dir/hello-jnicallback.c.o	c67d89b153b635c5
+286	436	1670434659	/Users/Zsombor/Documents/melok/defdev masterclass/android/jni/hello-jniRootDetect/app/build/intermediates/cxx/Debug/33411v5v/obj/arm64-v8a/libhello-jnicallback.so	c5f9de9ed6e17a09
+1	331	1670440962	CMakeFiles/hello-jnicallback.dir/hello-jnicallback.c.o	c67d89b153b635c5
+331	470	1670440962	/Users/Zsombor/Documents/melok/defdev masterclass/android/jni/hello-jniRootDetect/app/build/intermediates/cxx/Debug/33411v5v/obj/arm64-v8a/libhello-jnicallback.so	c5f9de9ed6e17a09
+1	301	1670440995	CMakeFiles/hello-jnicallback.dir/hello-jnicallback.c.o	c67d89b153b635c5
+301	454	1670440995	/Users/Zsombor/Documents/melok/defdev masterclass/android/jni/hello-jniRootDetect/app/build/intermediates/cxx/Debug/33411v5v/obj/arm64-v8a/libhello-jnicallback.so	c5f9de9ed6e17a09

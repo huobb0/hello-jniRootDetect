@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/Zsombor/Documents/melok/defdev masterclass/android/jni/hello-jniRootDetect/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/Zsombor/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/Zsombor/Documents/melok/defdev masterclass/android/jni/hello-jniRootDetect/app/.cxx/Debug/33411v5v/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/Zsombor/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/Zsombor/Documents/melok/defdev masterclass/android/jni/hello-jniRootDetect/app/.cxx/Debug/33411v5v/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "hello-jnicallback::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "hello-jnicallback",
+      "output": "/Users/Zsombor/Documents/melok/defdev masterclass/android/jni/hello-jniRootDetect/app/build/intermediates/cxx/Debug/33411v5v/obj/x86/libhello-jnicallback.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/Zsombor/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/Zsombor/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

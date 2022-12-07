@@ -1,0 +1,3 @@
+/Users/Zsombor/Documents/melok/defdev masterclass/android/jni/hello-jniRootDetect/app/.cxx/Debug/33411v5v/x86/CMakeFiles/rebuild_cache.dir
+/Users/Zsombor/Documents/melok/defdev masterclass/android/jni/hello-jniRootDetect/app/.cxx/Debug/33411v5v/x86/CMakeFiles/edit_cache.dir
+/Users/Zsombor/Documents/melok/defdev masterclass/android/jni/hello-jniRootDetect/app/.cxx/Debug/33411v5v/x86/CMakeFiles/hello-jnicallback.dir
